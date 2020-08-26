@@ -1,0 +1,18 @@
+.container-fluid{
+	background-color: rgba(0,0,0,0.8);
+}
+#nav-list a:hover{
+	background-color: #778899;
+	color: black;
+}
+h1{
+	text-align: center;
+}
+#para p{
+	background-color: grey;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px;
+	text-align: center;
+}
+@media (n)
